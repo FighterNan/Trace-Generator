@@ -1,5 +1,5 @@
 # Traces-Generator
-Generate synthetic rulesets in packet classification. Original codes and ideas are from 'ClassBench'.
+Generate traces for evaluation in packet classification. Original codes and ideas are from 'ClassBench'.
 
 ## build 
 ```
